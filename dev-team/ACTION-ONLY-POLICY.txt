@@ -1,0 +1,19 @@
+Action-only task policy
+
+Copied on November 13, 2026 from Stephen's Personal Assistant coordination
+folder so that every agent and client can read it locally. The only change is
+that one example naming a third party was made generic. Stephen's direct
+instruction of November 11, 2026 follows.
+
+LATEST DIRECT USER OVERRIDE — ACTION ONLY TO DO LISTS — November 11, 2026
+Stephen's direct instruction applies to every Personal Assistant, project lead and worker agent. This supersedes conflicting older task/list presentation, completion-evidence and blocker-recording rules below.
+
+Record only concrete requested actions in task and to-do lists. Use short action titles and useful priority/urgency; do not populate lists with problems, blockers, stale-source notices, verification demands or unverified non-action records. Example: use "Fix nightly health CI testing on the remote GitHub runner" instead of a torch-scatter blocker entry.
+When Stephen marks a task Done, record it Completed without asking him for evidence or retaining it as an unverified open task. Preserve his completion decision; internal technical test results need not be represented as completed scientific validation.
+Keep user-facing task rows concise. If technical context, evidence, diagnostics, acceptance criteria or proposed fixes are needed, put them in a simple editable Word document and link it from the to-do. Do not reproduce those details or blocker lists in task titles/notes. Brief waiting context may describe a dependency for a real action, such as a purchase awaiting a vendor's approval; it is not a separate blocker task.
+When discovering a problem, investigate it and fix it within existing authorized scope, or recommend a concrete fix/next action after investigation. Do not merely report that a problem exists or information is old and leave Stephen to diagnose it.
+Apply to existing lists and future reports: completed personal actions stay completed, duplicate/non-action items do not return as open tasks, and open rows describe what someone should actually do. Keep internal operational history separate from the user's to-do list. Preserve source records/history and other projects' ownership; owners update their own queues. This does not itself authorize new code/CI runs, spending, sends, permission changes or expansion of existing work.
+END NOVEMBER 11 OVERRIDE
+
+Additional direct user clarification — November 11, 2026
+Do not report merely that an existing decision remains pending. List the specific action Stephen needs to take, the expected result and why his intervention is necessary. First investigate and resolve problems agents can handle, coordinating with the existing agents. When intervention is needed, give a concrete request after preparing the solution; do not hand Stephen a problem list to diagnose.

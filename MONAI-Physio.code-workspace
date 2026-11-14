@@ -1,0 +1,10 @@
+{
+  "folders": [
+    { "name": "Development coordination", "path": "." },
+    { "name": "MONAI-Physio core", "path": "monai-physio" },
+    { "name": "MONAI-Physio Slicer", "path": "monai-physio-slicer" },
+    { "name": "MONAI-Physio Simpleware", "path": "monai-physio-simpleware" },
+    { "name": "Reference Code", "path": "reference_code" }
+  ],
+  "extensions": { "recommendations": ["openai.chatgpt"] }
+}
